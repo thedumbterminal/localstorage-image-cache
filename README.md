@@ -3,6 +3,24 @@ localstorage-image-cache
 
 Cache images into local storage for offline use.
 
+Requirements
+------------
+
+Remote images must be served from a server responding with the correct CORS headers.
+
+For example with apache the following config can be added to a .htaccess file:
+
+	<Files *>
+		Header add Access-Control-Allow-Origin "*"
+	</Files>
+
+Installation
+------------
+
+Via bower:
+
+	bower install localstorage-image-cache
+
 Usage
 -----
 
