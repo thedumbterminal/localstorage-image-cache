@@ -23,6 +23,7 @@
   ],
   "dependencies": {
     "jquery": "1.1.1",
-    "moment": "^1.7.2"
+    "moment": "^1.7.2",
+    "minimatch": "^1.0.0"
   }
 }
