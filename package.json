@@ -1,0 +1,27 @@
+{
+  "name": "localstorage-image-cache",
+  "version": "1.0.0",
+  "homepage": "https://github.com/thedumbterminal/localstorage-image-cache",
+  "authors": [
+    "thedumbterminal <github@thedumbterminal.co.uk>"
+  ],
+  "description": "Cache images into local storage for offline use",
+  "main": "src/localstorage-image-cache.js",
+  "keywords": [
+    "image",
+    "cache",
+    "localstorage"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "example"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
