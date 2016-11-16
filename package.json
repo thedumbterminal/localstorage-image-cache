@@ -22,6 +22,7 @@
     "example"
   ],
   "dependencies": {
-    "jquery": "1.1.1"
+    "jquery": "1.1.1",
+    "moment": "^1.7.2"
   }
 }
