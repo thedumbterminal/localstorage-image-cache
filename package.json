@@ -27,7 +27,7 @@
     "example"
   ],
   "dependencies": {
-    "jquery": "^2.1.1"
+    "jquery": "^3.2.1"
   },
   "devDependencies": {
     "bower": "^1.8.2"

@@ -22,7 +22,7 @@
     "example"
   ],
   "dependencies": {
-    "jquery": "^2.1.1"
+    "jquery": "^3.2.1"
   },
   "devDependencies": {
     "requirejs": "^2.1.15"
