@@ -46,10 +46,9 @@ Example
 
 See the example app in the `example` directory.
 
-	cd example
-	bower install
+    npm start
 
-Open `example/index.html` in your browser, hit reload and you'll notice the 2 example images are not loaded from the remote site.
+Will open `example/index.html` in your browser, hit reload and you'll notice the 2 example images are not loaded from the remote site.
 
 Credit
 ------
