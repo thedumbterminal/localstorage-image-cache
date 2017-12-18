@@ -1,6 +1,6 @@
 {
   "name": "localstorage-image-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/thedumbterminal/localstorage-image-cache",
   "authors": [
     "thedumbterminal <github@thedumbterminal.co.uk>"
@@ -12,6 +12,10 @@
     "cache",
     "localstorage"
   ],
+  "scripts": {
+    "postinstall": "bower install",
+    "test": "echo 'TODO'"
+  },
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -23,5 +27,8 @@
   ],
   "dependencies": {
     "jquery": "~2.1.1"
+  },
+  "devDependencies": {
+    "bower": "^1.8.2"
   }
 }
